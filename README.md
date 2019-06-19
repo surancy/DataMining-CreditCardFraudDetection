@@ -1,6 +1,14 @@
+Usage:  
+to view the html report faster:   
+copy the following link to https://htmlpreview.github.io/
+
+https://github.com/surancy/DataMining-CreditCardFraudDetection/blob/master/final_report.html
+
 # Data Mining Project - Credit Card Fraud Detection and Prediction using R
-## Tasks Overview
-The tasks for the project include
+Investigates the performance of Gradient Boosting Machine (GBM) using H2O, Support Vector Machine, k-nearest Neighbors (KNN) and Random Forest in predicting the fraud transactions in a highly imbalanced data of credit card transactions in September 2013 by European cardholders. Detailed Exploratory Data Analysis (EDA) was performed on the masked and PCA transformed features. Based on the insights from the EDA, three models were executed which resulted in high performance in predicting the fraud transaction in the test set.
+
+## Tasks Breakdown
+The tasks for the project include:
 
 - Determining a dataset that is both significant and valuable enough to add value to the real world problem
 
@@ -33,8 +41,5 @@ The tasks for the project include
 
 - Takeaways for learning data science and machine learning
 
-## Tasks Assignment
-- The entire group discussed together regarding selecting the dataset. We are very careful about the dataset selection because we want a dataset that is both significant enought in size and also valuable enough to yield important message to the real-world problem. In addition, we also want a dataset that is helpful to learn about machine learning and data mining.
-- After we decided the dataset, we seperated our tasks into two major parts: EDA and Modeling. With six of us, three of us focused on EDA (Ahsan, Waqas, and Chenyu) and the other three focused on modeling (Yawen, Alex, and Chi).
-- The EDA part was useful for modeling and we combined our results together.
-- We discussed together in terms of the EDA result, model performance, takeaways of analyzing blind data, model selection for unbalanced data, and how our project adds value to the real-world fraud transaction problem.
+---
+Team: Ahsan, Waqas, Chenyu, Yawen, Alex, and Chi
